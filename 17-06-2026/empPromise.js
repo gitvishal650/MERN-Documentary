@@ -54,4 +54,5 @@ function addEmployee(newEmployee) {
 }
 addEmployee(newEmployee)
   .then((result) => console.log(result))
-  .catch();
+  .catch((err)=>{console.log(err);
+  });
