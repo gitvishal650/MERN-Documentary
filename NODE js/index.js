@@ -8,3 +8,9 @@ app.listen(3000,(err)=>{
         console.log("server is on port 3000....");   
     }
 })
+app.get("/",(req,res)=>{
+    res.send("Hello This side node js server...")
+})
+app.get("/home",(req,res)=>{
+    res.send('<h1>This is our vishal page </h1>')
+})
