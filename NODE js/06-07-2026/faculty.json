@@ -1,0 +1,50 @@
+[
+    {
+        "facultyid": 1,
+        "first_name": "Elisabet",
+        "last_name": "Cure",
+        "email": "ecure0@unc.edu",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "facultyid": 2,
+        "first_name": "Linn",
+        "last_name": "Wilmington",
+        "email": "lwilmington1@harvard.edu",
+        "gender": "Male",
+        "salary": 20000
+    },
+    {
+        "facultyid": 3,
+        "first_name": "Christal",
+        "last_name": "Grubb",
+        "email": "cgrubb2@vinaora.com",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "facultyid": 4,
+        "first_name": "Wayne",
+        "last_name": "Langrfacultyidge",
+        "email": "wlangrfacultyidge3@weibo.com",
+        "gender": "Male",
+        "salary": 20000
+    },
+    {
+        "facultyid": 5,
+        "first_name": "Vyky",
+        "last_name": "Lismore",
+        "email": "vlismore4@state.tx.us",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "facultyid": 6,
+        "first_name": "Utkarsh",
+        "last_name": "Panchal",
+        "email": "vlismore4@state.tx.us",
+        "gender": "Male",
+        "salary": 20000
+    }
+]
