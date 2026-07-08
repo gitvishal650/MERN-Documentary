@@ -1,0 +1,219 @@
+[
+  {
+    "rollno": 1,
+    "first_name": "Bartlett",
+    "last_name": "Jandel",
+    "email": "bjandel0@addthis.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 2,
+    "first_name": "Helene",
+    "last_name": "Piddletown",
+    "email": "hpiddletown1@lulu.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 3,
+    "first_name": "Sandra",
+    "last_name": "Yeardsley",
+    "email": "syeardsley2@yellowpages.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 4,
+    "first_name": "Franny",
+    "last_name": "McCathie",
+    "email": "fmccathie3@wix.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 5,
+    "first_name": "Flss",
+    "last_name": "Rameau",
+    "email": "frameau4@cbsnews.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 6,
+    "first_name": "Mercedes",
+    "last_name": "Crosdill",
+    "email": "mcrosdill5@ebay.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 7,
+    "first_name": "Latrena",
+    "last_name": "Gioani",
+    "email": "lgioani6@hibu.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 8,
+    "first_name": "Shelbi",
+    "last_name": "Braunter",
+    "email": "sbraunter7@msu.edu",
+    "gender": "Female"
+  },
+  {
+    "rollno": 9,
+    "first_name": "Milly",
+    "last_name": "Kunkel",
+    "email": "mkunkel8@php.net",
+    "gender": "Female"
+  },
+  {
+    "rollno": 10,
+    "first_name": "Quinton",
+    "last_name": "Wilbud",
+    "email": "qwilbud9@columbia.edu",
+    "gender": "Male"
+  },
+  {
+    "rollno": 11,
+    "first_name": "Misty",
+    "last_name": "Dalla",
+    "email": "dkhds@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 12,
+    "first_name": "Gwenore",
+    "last_name": "Valois",
+    "email": "gvaloisb@fotki.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 13,
+    "first_name": "Web",
+    "last_name": "Jakubiak",
+    "email": "wjakubiakc@weebly.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 14,
+    "first_name": "Kellen",
+    "last_name": "Tomaselli",
+    "email": "ktomasellid@wired.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 15,
+    "first_name": "Bertrand",
+    "last_name": "Harbin",
+    "email": "bharbine@prweb.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 16,
+    "first_name": "Mitch",
+    "last_name": "Kerrich",
+    "email": "mkerrichf@vistaprint.com",
+    "gender": "Bigender"
+  },
+  {
+    "rollno": 17,
+    "first_name": "Zane",
+    "last_name": "Keford",
+    "email": "zkefordg@chron.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 18,
+    "first_name": "Elsie",
+    "last_name": "Christer",
+    "email": "echristerh@livejournal.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 19,
+    "first_name": "Mic",
+    "last_name": "Standbrooke",
+    "email": "mstandbrookei@privacy.gov.au",
+    "gender": "Male"
+  },
+  {
+    "rollno": 20,
+    "first_name": "Tawsha",
+    "last_name": "Foxhall",
+    "email": "tfoxhallj@about.me",
+    "gender": "Female"
+  },
+  {
+    "rollno": 21,
+    "first_name": "Giselbert",
+    "last_name": "Charon",
+    "email": "gcharonk@booking.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 22,
+    "first_name": "Jobyna",
+    "last_name": "Jardin",
+    "email": "jjardinl@discuz.net",
+    "gender": "Female"
+  },
+  {
+    "rollno": 23,
+    "first_name": "Verla",
+    "last_name": "Sikora",
+    "email": "vsikoram@cbsnews.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 24,
+    "first_name": "Cheston",
+    "last_name": "Fay",
+    "email": "cfayn@statcounter.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 25,
+    "first_name": "Lauraine",
+    "last_name": "Scarratt",
+    "email": "lscarratto@ox.ac.uk",
+    "gender": "Female"
+  },
+  {
+    "rollno": 26,
+    "first_name": "Vonny",
+    "last_name": "Steuart",
+    "email": "vsteuartp@diigo.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 27,
+    "first_name": "Crystie",
+    "last_name": "Balling",
+    "email": "cballingq@chron.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 28,
+    "first_name": "Sherwynd",
+    "last_name": "Rodinger",
+    "email": "srodingerr@cisco.com",
+    "gender": "Male"
+  },
+  {
+    "rollno": 29,
+    "first_name": "Gerrard",
+    "last_name": "Lydall",
+    "email": "glydalls@narod.ru",
+    "gender": "Genderfluid"
+  },
+  {
+    "rollno": 30,
+    "first_name": "Dorena",
+    "last_name": "Playford",
+    "email": "dplayfordt@blogs.com",
+    "gender": "Female"
+  },
+  {
+    "rollno": 31,
+    "first_name": "Lalit",
+    "last_name": "Widfdgd",
+    "email": "hwiddt@digg.com",
+    "gender": "Male"
+  }
+]
