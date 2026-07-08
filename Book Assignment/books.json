@@ -1,0 +1,27 @@
+[
+  {
+    "bookid": 1,
+    "bookname": "The Alchemist",
+    "price": 299
+  },
+  {
+    "bookid": 2,
+    "bookname": "Atomic Habits",
+    "price": 450
+  },
+  {
+    "bookid": 3,
+    "bookname": "Rich Dad Poor Dad",
+    "price": 350
+  },
+  {
+    "bookid": 4,
+    "bookname": "The Power of Your Subconscious Mind",
+    "price": 275
+  },
+  {
+    "bookid": 5,
+    "bookname": "Think and Grow Rich",
+    "price": 320
+  }
+]
