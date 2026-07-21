@@ -1,7 +1,7 @@
-const mongoose = requrire('mongoose')
+const mongoose = require('mongoose')
 const Schema = mongoose.Schema()
 
-const StudentSchema = new Schema ({
+const StudentSchema = mongoose.Schema ({
     rollno:{type:String, required:true},
     name:{type:String,required:true},
     fatherName:{type: String,required:true},

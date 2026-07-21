@@ -1,0 +1,39 @@
+<%- include('./base/header.ejs') %>
+<div class="container">
+  <div class="alert bg-danger my-3">
+    <h4 class="text-center text-white">List of Students</h4>
+  </div>
+</div>
+    <div class="container">
+        <div class="row mt-1">
+            <table class="table text-center">
+                <tr>
+                    <th>Roll No</th>
+                    <th>Name</th>
+                    <th>Father Name</th>
+                    <th>Adhar Card No</th>
+                    <th>Mobile No</th>
+                    <th>Actions</th>
+                </tr>
+                <% st.forEach((value)=>{ %>
+                    <tr>
+                        <td><%= value.rollno%></td>
+                        <td><%= value.name%></td>
+                        <td><%= value.fatherName%></td>
+                        <td><%= value.adharCardNo%></td>
+                        <td><%= value.mobileNo%></td>
+                        <td>
+                            <div class="d-flex justify-content-center gap-2">
+
+                                <a href="/student/edit/<%= value._id %>" class="btn btn-primary">Edit</a>
+                                <form action="/student/delete/<%= value._id %>" method="post">
+                                    <button type="submit" class="btn btn-danger"style="display: inline;">Delete</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                <% })%>
+            </table>
+        </div>
+    </div>
+<%- include('./base/footer.ejs') %>
